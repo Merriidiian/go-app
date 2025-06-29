@@ -1,0 +1,4 @@
+port: 8080
+secretHeader: getAdmin
+secretPass: 12345
+adminToken: 777777777777777
